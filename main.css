@@ -1,16 +1,18 @@
-div h1{
+.header-title-container{
+    margin:0 auto;
+}
+.header-title{
+    color: white;
+}
+div{
     color: black;
 }
-h1{
-    color: blueviolet;
+.form-text{
+    margin: 25%;
+    padding: 2rem 1rem;
+    border: 1px solid grey;
 }
-
-.ece{
-    color: aqua;
-}
-h5{
-    color:rgb(42, 165, 69);
-}
-#erhan{
-    color: rgb(28, 28, 129);
+h3{
+    text-align: center;
+    color: black;
 }
